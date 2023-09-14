@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome to MUF"
 layout: post
 ---
 
